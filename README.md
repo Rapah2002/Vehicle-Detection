@@ -28,4 +28,6 @@ PASSARO, F. O que é um carro autônomo? Disponível em: <https://www.mapfre.com
 
 COMPUTAÇÃO, C. E. Detector de objetos YOLO. Disponível em: <http://www.youtube.com/playlist?list=PLqSRiSjByYuKqUleBDbwjNt5GJLhoae70>. Acesso em: 25 mar. 2025.
 
-MaryamBoneh. Vehicle-Detection. Disponível em: <https://github.com/MaryamBoneh/Vehicle-Detection?tab=readme-ov-file>. Acessado em 25 mar. 2025</h2>
+MaryamBoneh. Vehicle-Detection. Disponível em: <https://github.com/MaryamBoneh/Vehicle-Detection?tab=readme-ov-file>. Acessado em 25 mar. 2025
+
+<https://github.com/bothmena/yolo-v3-vehicle-detection></h2>
