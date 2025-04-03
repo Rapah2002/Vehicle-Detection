@@ -30,4 +30,4 @@ COMPUTAÇÃO, C. E. Detector de objetos YOLO. Disponível em: <http://www.youtub
 
 MaryamBoneh. Vehicle-Detection. Disponível em: <https://github.com/MaryamBoneh/Vehicle-Detection?tab=readme-ov-file>. Acessado em 25 mar. 2025
 
-<https://github.com/bothmena/yolo-v3-vehicle-detection></h2>
+AntonMu AntonMu. TrainYourOwnYOLO: Building a Custom Object Detector from Scratch. <https://github.com/bothmena/yolo-v3-vehicle-detection>. Acesso em 25 mar. 2025</h2>
